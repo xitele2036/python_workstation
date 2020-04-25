@@ -1,0 +1,29 @@
+cfg.lua set_apply snmpd.@system[0].enterpriseOID='.1'
+
+cfg.lua set_apply snmpd.@system[0].snmpenabled='snmpv3'
+
+cfg.lua set_apply snmpd.@snmpv3[0].rwaccess='readonly'
+
+cfg.lua set_apply snmpd.@snmpv3[0].rwaccess='readwrite'
+
+cfg.lua set_apply snmpd.@trapv3[0]=trapv3
+
+cfg.lua set_apply snmpd.@trapv3[0].serverport='162'
+
+cfg.lua set_apply snmpd.@trapv3[0].community='Root@123'
+
+cfg.lua set_apply snmpd.@trapv3[0].serverip='192.168.2.66'
+
+cfg.lua set_apply snmpd.@trapv3user[0]=trapv3user
+
+cfg.lua set_apply snmpd.@trapv3user[0].engineID='0x0102030405060708'
+
+cfg.lua set_apply snmpd.@trapv3user[0].username='roottrap'
+
+cfg.lua set_apply snmpd.@trapv3user[0].level='auth'
+
+cfg.lua set_apply snmpd.@trapv3user[0].auth='SHA'
+
+cfg.lua set_apply snmpd.@trapv3user[0].aupw='12345678'
+
+cfg.lua show snmpd

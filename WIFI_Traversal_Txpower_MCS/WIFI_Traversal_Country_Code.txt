@@ -1,0 +1,93 @@
+          CTRY-CODE-ALL                                                                 
+   Code    ShortName  FullName                                                          
+   0x8020  AR         ARGENTINA                                                         
+   0x8033  AM         ARMENIA                                                           
+   0x8024  AU         AUSTRALIA                                                         
+   0x8028  AT         AUSTRIA                                                           
+   0x801f  AZ         AZERBAIJAN                                                        
+   0x8030  BH         BAHRAIN                                                           
+   0x8070  BY         BELARUS                                                           
+   0x8038  BE         BELGIUM                                                           
+   0x8054  BZ         BELIZE                                                            
+   0x8044  BO         BOLVIA                                                            
+   0x804c  BR         BRAZIL                                                            
+   0x8060  BN         BRUNEI DARUSSALAM                                                 
+   0x807c  CA         CANADA                                                            
+   0x8098  CL         CHILE                                                             
+   0x809c  CN         CHINA                                                             
+   0x80aa  CO         COLOMBIA                                                          
+   0x80c4  CY         CYPRUS                                                            
+   0x80cb  CZ         CZECH REPUBLIC                                                    
+   0x80d0  DK         DENMARK                                                           
+   0x80d6  DO         DOMINICAN REPUBLIC                                                
+   0x80da  EC         ECUADOR                                                           
+   0x8332  EG         EGYPT                                                             
+   0x80e9  EE         ESTONIA                                                           
+   0x80f6  FI         FINLAND                                                           
+   0x80fa  FR         FRANCE                                                            
+   0x810c  GE         GEORGIA                                                           
+   0x8114  DE         GERMANY                                                           
+   0x812c  GR         GREECE                                                            
+   0x8140  GT         GUATEMALA                                                         
+   0x8154  HN         HONDURAS                                                          
+   0x8158  HK         HONG KONG (CHINA)                                                 
+   0x815c  HU         HUNGARY                                                           
+   0x8160  IS         ICELAND                                                           
+   0x8164  IN         INDIA                                                             
+   0x8168  ID         INDONESIA                                                         
+   0x816c  IR         IRAN                                                              
+   0x8170  IQ         IRAQ                                                              
+   0x8174  IE         IRELAND                                                           
+   0x8178  IL         ISRAEL                                                            
+   0x817c  IT         ITALY                                                             
+   0x8188  JP         JAPAN                                                             
+   0x8190  JO         JORDAN                                                            
+   0x819a  KR         KOREA_REPUBLIC                                                    
+   0x81ac  LV         LATVIA                                                            
+   0x81a6  LB         LEBANON                                                           
+   0x81b6  LI         LIECHTENSTEIN                                                     
+   0x81b8  LT         LITHUANIA                                                         
+   0x81ba  LU         LUXEMBOURG                                                        
+   0x81be  MO         MACAU (CHINA)                                                     
+   0x8327  MK         MACEDONIA                                                         
+   0x81ca  MY         MALAYSIA                                                          
+   0x81d6  MT         MALTA                                                             
+   0x81e4  MX         MEXICO                                                            
+   0x81f8  MA         MOROCCO                                                           
+   0x8210  NL         NETHERLANDS                                                       
+   0x822a  NZ         NEW_ZEALAND                                                       
+   0x8236  NG         NIGERIA                                                           
+   0x8198  KP         NORTH KOREA                                                       
+   0x8242  NO         NORWAY                                                            
+   0x8200  OM         OMAN                                                              
+   0x824a  PK         PAKISTAN                                                          
+   0x824f  PA         PANAMA                                                            
+   0x825c  PE         PERU                                                              
+   0x8260  PH         PHILIPPINES                                                       
+   0x8268  PL         POLAND                                                            
+   0x826c  PT         PORTUGAL                                                          
+   0x8276  PR         PUERTO_RICO                                                       
+   0x8283  RU         RUSSIA                                                            
+   0x82aa  SA         SAUDIA ARABIA                                                     
+   0x82be  SG         SINGAPORE                                                         
+   0x82bf  SK         SLOVAK REPUBLIC                                                   
+   0x82c1  SI         SLOVENIA                                                          
+   0x82c6  ZA         SOUTH AFRICA                                                      
+   0x82d4  ES         SPAIN                                                             
+   0x8090  LK         SRI LANKA                                                         
+   0x82f0  SE         SWEDEN                                                            
+   0x82f4  CH         SWITZERLAND                                                       
+   0x809e  TW         TAIWAN (CHINA)                                                    
+   0x82fc  TH         THAILAND                                                          
+   0x830c  TT         TRINIDAD & TOBAGO                                                 
+   0x8314  TN         TUNISIA                                                           
+   0x8310  AE         UNITED ARAB EMIRATES                                              
+   0x833a  GB         UNITED_KINGDOM                                                    
+   0x8348  US         UNITED_STATES                                                     
+   0x835a  UY         URUGUAY                                                           
+   0x835c  UZ         UZBEKISTAN                                                        
+   0x835e  VE         VENEZUELA                                                         
+   0x82c0  VN         VIETNAM                                                           
+   0x0001  DB         AUTO                                                              
+   0x0002  DB         OTHER                                                             
+   0x0000  NN         NONE  

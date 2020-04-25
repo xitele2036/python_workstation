@@ -1,0 +1,12 @@
+cfg.lua set_apply snmpd.@system[0].snmpenabled='snmpv2'
+cfg.lua set_apply snmpd.@snmpv2[0]=snmpv2
+cfg.lua set_apply snmpd.@snmpv2[0].rocom='public'
+cfg.lua set_apply snmpd.@snmpv2[0].roaccesswall='192.168.2.0/24'
+cfg.lua set_apply snmpd.@snmpv2[0].rwcom='privat'
+cfg.lua set_apply snmpd.@snmpv2[0].rwaccesswall='192.168.2.0/24'
+cfg.lua set_apply snmpd.@trapv2[0]=trapv2
+cfg.lua set_apply snmpd.@trapv2[0].serverport='162'
+cfg.lua set_apply snmpd.@trapv2[0].community='Root@123'
+cfg.lua set_apply snmpd.@trapv2[0].serverip='192.168.2.66'
+
+cfg.lua show snmpd
